@@ -9,3 +9,4 @@ https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
 https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
 
 ![Screenshot 2023-07-20 111505](https://github.com/Yati866/WatchPilot/assets/66166486/1ac1a1d7-a746-43c8-a02f-fd19e251f0a0)
+![analysis](https://github.com/Yati866/WatchPilot/assets/66166486/dadd13ce-0eae-48ce-8876-c8d76e547a97)
